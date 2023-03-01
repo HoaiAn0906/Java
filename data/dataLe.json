@@ -1,0 +1,28 @@
+{
+	"id": "TR001",
+	"name": "Train A",
+	"departure": "Station X",
+	"start_day": {
+		"year": 2023,
+		"month": 4,
+		"day": 24
+	},
+	"arrivals": [
+		{
+			"name": "Station Y",
+			"id": "ST001",
+			"time": "08:30",
+			"price": 150000.0,
+			"seat_empty": 0,
+			"stop_over": false
+		},
+		{
+			"name": "Station Z",
+			"id": "ST002",
+			"time": "11:45",
+			"price": 250000.0,
+			"seat_empty": 12,
+			"stop_over": true
+		}
+	]
+}

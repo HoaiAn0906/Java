@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"name": "Nguyễn Văn A",
+		"email": "vana@gmail.com",
+		"dateofbirth": {
+			"year": 2003,
+			"month": 4,
+			"day": 12
+		},
+		"enrolments": [
+			{
+				"course_code": "COMP101",
+				"course_name": "Lập trình căn bản",
+				"semester": [
+					"Học kỳ 1",
+					"Học kỳ 2"
+				],
+				"year": 2022,
+				"grade": "B+",
+				"is_finished": true
+			},
+			{
+				"course_code": "COMP201",
+				"course_name": "Cấu trúc dữ liệu và giải thuật",
+				"semester": [
+					"Học kỳ 2"
+				],
+				"year": 2022,
+				"grade": null,
+				"is_finished": false
+			}
+		]
+	}
+]
